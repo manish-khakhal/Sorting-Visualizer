@@ -1,0 +1,51 @@
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
+    margin-top: 15px !important;
+}
+
+.sh {
+    border: 2px solid;
+    background-color: #343A40;
+    display: flex;
+    height: 71vh;
+    justify-content: center;
+}
+
+#contain {
+    padding: 20px;
+    background-color: rgb(21, 173, 165);
+}
+
+#heading {
+    text-align: center;
+    color: blanchedalmond;
+}
+
+#buttons {
+    margin-left: 40px;
+    margin-top: 20px
+}
+
+text {
+    fill: black;
+}
+
+rect {
+    fill: white;
+}
+
+.unsorted {
+    fill: white
+}
+
+.sorted {
+    fill: rgb(10, 223, 28);
+}
+
+.min {
+    fill: rgb(182, 50, 50);
+    ;
+}
+
+.testing {
+    fill: red;
+}
